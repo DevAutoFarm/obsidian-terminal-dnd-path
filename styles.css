@@ -1,0 +1,6 @@
+/* Terminal Drag & Drop Path - Drop Zone Indicator */
+.xterm.dnd-path-dragover {
+    outline: 2px dashed var(--interactive-accent, #7c5cff) !important;
+    outline-offset: -2px;
+    transition: outline 0.15s ease;
+}

@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Build (main.js is the build output but needed for the plugin to work, so we DO include it)
+# main.js is intentionally tracked
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+console-poc.js
+
+# Environment
+.env

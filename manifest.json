@@ -1,0 +1,9 @@
+{
+    "id": "terminal-dnd-path",
+    "name": "Terminal Drag & Drop Path",
+    "version": "1.1.0",
+    "minAppVersion": "1.4.0",
+    "description": "Drag files/folders from the file explorer into the terminal to paste their relative path",
+    "author": "macbookpro16",
+    "isDesktopOnly": true
+}
