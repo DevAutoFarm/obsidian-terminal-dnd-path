@@ -17,3 +17,9 @@ console-poc.js
 
 # Environment
 .env
+
+# OMC internal state
+.omc/
+
+# Compiled binary
+obsidian-terminal-dnd-path
